@@ -1,5 +1,5 @@
 def choose_feature_set(topic):
-    if topic == 'background':
+    if topic == 'bkgd':
         features = ['geslacht',
                     'positie',
                     'gebjaar',
